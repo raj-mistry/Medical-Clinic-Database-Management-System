@@ -23,7 +23,7 @@ The Medical Clinic System Consists of 10 relational tables -
 Start by cloning the repo to your system
 
 ```sh
-$ git clone https://github.com/HitarthChudgar/rye-clinic-db.git
+https://github.com/raj-mistry/Medical-Clinic-Database-Management-System
 ```
 
 Implementing the database to Ryerson Servers
